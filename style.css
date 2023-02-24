@@ -401,6 +401,9 @@ footer {
 
 /* Small Phones */
 @media (max-width: 550px) {
+  .logo {
+    margin: 0;
+  }
   .nav__links {
     display: none;
   }
